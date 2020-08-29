@@ -13,4 +13,4 @@ PASOS PARA EJECUTAR EL PROYECTO
 4. Correr
 
 RECOMENDACION
--  Si el proyecto tiene las librerias y no funciona, se recomienda eliminar todo a excepcion del JDK y hacer los pasos anteriores.
+-  Si el proyecto tiene las librerias y no funciona, se recomienda eliminar todas las librerias Jena a excepcion del JDK y hacer los pasos anteriores.
